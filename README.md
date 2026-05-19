@@ -4,6 +4,8 @@ A corporate-style desktop analytics application designed for non-technical users
 
 Corporate Data Analyzer is a professional desktop-based analytics application built using Python, Tkinter, Pandas, and Matplotlib.
 
+This project was created to explore how Prompt Engineering and AI-assisted development can accelerate the creation of practical desktop analytics tools for business users.
+
 ## Key Functionalities
 
 - Automatic dataset profiling
