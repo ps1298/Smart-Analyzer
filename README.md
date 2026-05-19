@@ -1,4 +1,4 @@
-# Smart Analyzer
+# Corporate Data Analyzer
 
 Smart Analyzer is a professional desktop-based analytics application built using Python, Tkinter, Pandas, and Matplotlib.
 
