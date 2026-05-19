@@ -22,7 +22,7 @@ AI-assisted Prompt Engineering with Python project.
 ## Application Preview
 
 ### Dashboard
-![dark](screenshots/dark.png)
+![dark](preview/dark.png)
 
 ### Chart Preview
-![light](screenshots/light.png)
+![light](preview/light.png)
