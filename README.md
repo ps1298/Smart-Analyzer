@@ -36,7 +36,11 @@ The application is designed for non-technical users and can be used without any 
 
 A standalone Windows executable (.exe) version of the application is also available, allowing users to run the software without installing Python or development tools.
 
-For executable access or demonstration purposes, feel free to connect.
+## Connect
+
+For executable access, collaboration, or project discussions, feel free to connect:
+
+LinkedIn: www.linkedin.com/in/prem-sai-sanaka
 
 ---
 
