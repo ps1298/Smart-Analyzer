@@ -18,3 +18,11 @@ Smart Analyzer is a desktop-based analytics application built using Python.
 
 ## Project Type
 AI-assisted Prompt Engineering with Python project.
+
+## Application Preview
+
+### Dashboard
+![Dark](screenshots/dashboard.png)
+
+### Chart Preview
+![Light](screenshots/chart_preview.png)
