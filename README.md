@@ -55,3 +55,6 @@ LinkedIn: https://www.linkedin.com/in/prem-sai-sanaka
 ## Light Mode
 
 ![Light Mode](light.png)
+
+# ⭐ If you found this project interesting, consider giving it a star!
+
