@@ -23,6 +23,7 @@ This project was created to explore how Prompt Engineering and AI-assisted devel
 - Matplotlib
 - OpenPyXL
 - PyInstaller
+- Visual Studio Code
 
 ## Project Type
 
