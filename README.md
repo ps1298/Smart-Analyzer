@@ -40,7 +40,7 @@ A standalone Windows executable (.exe) version of the application is also availa
 
 For executable access, collaboration, or project discussions, feel free to connect:
 
-LinkedIn: www.linkedin.com/in/prem-sai-sanaka
+LinkedIn: https://www.linkedin.com/in/prem-sai-sanaka
 
 ---
 
