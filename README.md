@@ -1,6 +1,6 @@
 # Corporate Data Analyzer
 
-Smart Analyzer is a professional desktop-based analytics application built using Python, Tkinter, Pandas, and Matplotlib.
+Corporate Data Analyzer is a professional desktop-based analytics application built using Python, Tkinter, Pandas, and Matplotlib.
 
 ## Features
 
@@ -24,7 +24,11 @@ Smart Analyzer is a professional desktop-based analytics application built using
 
 ## Project Type
 
-AI-assisted Prompt Engineering with Python project.
+Prompt Engineering with Python project focused on building a professional desktop analytics application for non-technical users.
+
+## Development Approach
+
+Developed using prompt engineering workflows to rapidly prototype and build a corporate-style desktop analytics application.
 
 ---
 
