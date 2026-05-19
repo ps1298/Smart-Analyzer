@@ -1,17 +1,16 @@
 # Corporate Data Analyzer
 
+A corporate-style desktop analytics application designed for non-technical users to analyze CSV and Excel data without writing code.
 Corporate Data Analyzer is a professional desktop-based analytics application built using Python, Tkinter, Pandas, and Matplotlib.
 
-## Features
+## Key Functionalities
 
-- CSV and Excel analysis
-- Dynamic GroupBy reporting
-- Interactive chart visualization
-- Export reports to Excel/CSV
-- Export charts as PNG
-- Dark Mode / Light Mode UI
-- Standalone EXE support
-- User-friendly GUI for non-technical users
+- Automatic dataset profiling
+- Dynamic aggregation reporting
+- Interactive chart generation
+- Excel and CSV export
+- Dark/Light mode support
+- Standalone Windows executable deployment
 
 ## Technologies Used
 
