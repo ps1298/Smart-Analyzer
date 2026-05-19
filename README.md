@@ -30,6 +30,14 @@ Prompt Engineering with Python project focused on building a professional deskto
 
 Developed using prompt engineering workflows to rapidly prototype and build a corporate-style desktop analytics application.
 
+## End User Accessibility
+
+The application is designed for non-technical users and can be used without any programming knowledge.
+
+A standalone Windows executable (.exe) version of the application is also available, allowing users to run the software without installing Python or development tools.
+
+For executable access or demonstration purposes, feel free to connect.
+
 ---
 
 # Application Screenshots
